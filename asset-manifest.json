@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.496cbf87.chunk.css",
-    "main.js": "/static/js/main.85dcc2f6.chunk.js",
-    "main.js.map": "/static/js/main.85dcc2f6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.92ef2979.js",
-    "runtime-main.js.map": "/static/js/runtime-main.92ef2979.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.a91c909a.chunk.js": "/static/js/2.a91c909a.chunk.js",
-    "static/js/2.a91c909a.chunk.js.map": "/static/js/2.a91c909a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.030d0d4d58776bb85ae8d182ded5b729.js": "/precache-manifest.030d0d4d58776bb85ae8d182ded5b729.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.496cbf87.chunk.css.map": "/static/css/main.496cbf87.chunk.css.map",
-    "static/js/2.a91c909a.chunk.js.LICENSE.txt": "/static/js/2.a91c909a.chunk.js.LICENSE.txt"
+    "main.css": "/dfa-minimizer/static/css/main.496cbf87.chunk.css",
+    "main.js": "/dfa-minimizer/static/js/main.85dcc2f6.chunk.js",
+    "main.js.map": "/dfa-minimizer/static/js/main.85dcc2f6.chunk.js.map",
+    "runtime-main.js": "/dfa-minimizer/static/js/runtime-main.f4caf8ea.js",
+    "runtime-main.js.map": "/dfa-minimizer/static/js/runtime-main.f4caf8ea.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/dfa-minimizer/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4eebf5c7.chunk.js": "/dfa-minimizer/static/js/2.4eebf5c7.chunk.js",
+    "static/js/2.4eebf5c7.chunk.js.map": "/dfa-minimizer/static/js/2.4eebf5c7.chunk.js.map",
+    "index.html": "/dfa-minimizer/index.html",
+    "precache-manifest.e3999d21db561cc51203d6453359e0c8.js": "/dfa-minimizer/precache-manifest.e3999d21db561cc51203d6453359e0c8.js",
+    "service-worker.js": "/dfa-minimizer/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/dfa-minimizer/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.496cbf87.chunk.css.map": "/dfa-minimizer/static/css/main.496cbf87.chunk.css.map",
+    "static/js/2.4eebf5c7.chunk.js.LICENSE.txt": "/dfa-minimizer/static/js/2.4eebf5c7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.92ef2979.js",
+    "static/js/runtime-main.f4caf8ea.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.a91c909a.chunk.js",
+    "static/js/2.4eebf5c7.chunk.js",
     "static/css/main.496cbf87.chunk.css",
     "static/js/main.85dcc2f6.chunk.js"
   ]
