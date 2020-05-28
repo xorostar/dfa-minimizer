@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4bff7518cb37461a628871a77b34d96a",
+    "revision": "766c767b5d0bf68e6b2cf2cfe8698990",
     "url": "/dfa-minimizer/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dfa-minimizer/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "4edc453e0fbe62090438",
+    "revision": "a77d20e66a5faa68df1c",
     "url": "/dfa-minimizer/static/css/main.496cbf87.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dfa-minimizer/static/js/2.4eebf5c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4edc453e0fbe62090438",
-    "url": "/dfa-minimizer/static/js/main.a677e11f.chunk.js"
+    "revision": "a77d20e66a5faa68df1c",
+    "url": "/dfa-minimizer/static/js/main.fe9b4d51.chunk.js"
   },
   {
     "revision": "c58f0121ded3209ec5b2",
